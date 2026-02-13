@@ -4,6 +4,12 @@ Wanderlust is a full-stack web application built with **Node.js, Express.js, Mon
 
 ---
 
+## Live Demo link:
+
+https://wanderlust-owt1.onrender.com/listings
+
+---
+
 ## Features
 
 - User authentication: Signup, Login, Logout
